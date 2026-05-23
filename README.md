@@ -1,5 +1,10 @@
 <div align="center">
   <h1>PharmGov — فارم جوف</h1>
+
+  <p align="center">
+  <img src="PharmGov_logo.png" width="400">
+</p>
+
   <p><b>نظام رقابي مركزي حكومي لضبط وتنظيم أسعار الأدوية وربطها بالصيدليات تحت إشراف جهة صحية.</b></p>
   <p><b>A centralized government regulatory system to control and organize medicine prices and link them to pharmacies under the supervision of a health authority.</b></p>
 </div>
